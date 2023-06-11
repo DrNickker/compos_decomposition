@@ -18,15 +18,15 @@ li {
 
 .search, img {
   border: 2px solid rgb(255, 187, 0);
-  border-radius: 8px;
+  border-radius: 4px;
   width: 60%;
   margin-left: 2vw;
-  margin-top: 3vw;
+  margin-top: 1vw;
   max-width: 700px;
 }
 
 .search {
-  height: 2vw;
+  height: 1.5vw;
 }
 
 img {
