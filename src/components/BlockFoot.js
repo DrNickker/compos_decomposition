@@ -2,9 +2,6 @@ import React from 'react';
 import {footBlocks} from '../data/footBlocks'
 import {nanoid} from 'nanoid';
 
-/**
- * Компонент «нижние блоки»: дополнительные разделы пользовательских новостей.
- */
 
 export default function BlockFoot() {
     return (

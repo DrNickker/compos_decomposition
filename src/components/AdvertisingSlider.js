@@ -1,12 +1,8 @@
 import React from 'react';
-import advertising from './advertising.png'; 
-
-/**
- * Компонент «рекламный слайдер»
- */
+import advertising from './banner.png'; 
 
 export default function AdvertisingSlider() {
     return (
-        <img src={advertising} alt='advertising' />
+        <img src={advertising} alt='banner' />
     )
 }
