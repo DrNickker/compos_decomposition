@@ -4,10 +4,6 @@ import {blocks} from '../data/blocks';
 import {titles} from '../data/titles'
 import NewsBlock from './NewsBlock';
 
-/**
- * Компонент «новости»: разделы новостных категорий и список новостей.
- */
-
 export default function News() {
     return (
         <React.Fragment>

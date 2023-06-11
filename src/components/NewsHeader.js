@@ -1,8 +1,6 @@
 import React from 'react';
 
-/**
- * Компонент «шапка»: заголовки главного меню. По клику показывается NewsBlock.
- */
+
 
 export default function NewsHeader({titles}) {
     return (
