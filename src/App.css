@@ -17,10 +17,16 @@ li {
 }
 
 .search, img {
-  border: 2px solid orangered;
-  width: 40%;
+  border: 2px solid rgb(255, 187, 0);
+  border-radius: 8px;
+  width: 60%;
   margin-left: 2vw;
+  margin-top: 3vw;
   max-width: 700px;
+}
+
+.search {
+  height: 2vw;
 }
 
 img {
